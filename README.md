@@ -2,7 +2,6 @@
 
 ## Author
 Muhammet Sait Yılmaz  
-Student Number: 211229018  
 Date: 04.01.2024  
 GitHub: [Muhammetyilmaz7](https://github.com/Muhammetyilmaz7)
 
